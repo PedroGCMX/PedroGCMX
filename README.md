@@ -1,7 +1,7 @@
  Hi there 👋
 I'm Pedro Gonzalez!
 
-- 🔭 Programador Full-Stack
+- 🔭 Estudante de programação
 - 🌱 Estou Estudando CyberSecurity
 - 
 <div align="center">
